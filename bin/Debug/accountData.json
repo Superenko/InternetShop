@@ -1,0 +1,366 @@
+[
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": -40.0,
+    "ID": 1,
+    "Name": "User1",
+    "Password": "15d70838aa7d47aa60b2049268d55cb4a112a87fd8ece1ffb5fe27fdfb17192c"
+  },
+  {
+    "$type": "Kursova.Models.VipUser, InternetShop1",
+    "Balance": -27.0,
+    "ID": 2,
+    "Name": "VipUser1",
+    "Password": "3184503b879617c50a971750f3f15b43c7e5b06c367fa950fb4acc47eca4f137"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": 0.0,
+    "ID": 3,
+    "Name": "kostya",
+    "Password": "6f4343cf192817aef4ceb8ec644baf0160cb4d33bd2a4e56ffba9ad386326b5f"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": 0.0,
+    "ID": 4,
+    "Name": "kostya",
+    "Password": "6f4343cf192817aef4ceb8ec644baf0160cb4d33bd2a4e56ffba9ad386326b5f"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": 0.0,
+    "ID": 5,
+    "Name": "kostya",
+    "Password": "6f4343cf192817aef4ceb8ec644baf0160cb4d33bd2a4e56ffba9ad386326b5f"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": 0.0,
+    "ID": 6,
+    "Name": "Kostya",
+    "Password": "6f4343cf192817aef4ceb8ec644baf0160cb4d33bd2a4e56ffba9ad386326b5f"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": 0.0,
+    "ID": 7,
+    "Name": "Rost",
+    "Password": "c649758daf8d4e826c03c5db8cb883dc646937459d9c3620ef4705eeb5be0900"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": -200.0,
+    "ID": 8,
+    "Name": "Rost",
+    "Password": "202CB962AC59075B964B07152D234B"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": -200.0,
+    "ID": 9,
+    "Name": "Rost",
+    "Password": "202CB962AC59075B964B07152D234B"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": -200.0,
+    "ID": 10,
+    "Name": "Rost",
+    "Password": "202CB962AC59075B964B07152D234B"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": -200.0,
+    "ID": 11,
+    "Name": "Rost",
+    "Password": "202CB962AC59075B964B07152D234B"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": -200.0,
+    "ID": 12,
+    "Name": "Rost",
+    "Password": "202CB962AC59075B964B07152D234B"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": -200.0,
+    "ID": 13,
+    "Name": "Rost",
+    "Password": "202CB962AC59075B964B07152D234B"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": -200.0,
+    "ID": 14,
+    "Name": "Rost",
+    "Password": "202CB962AC59075B964B07152D234B"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": 0.0,
+    "ID": 15,
+    "Name": "Rost",
+    "Password": "202CB962AC59075B964B07152D234B"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": 0.0,
+    "ID": 16,
+    "Name": "Rost",
+    "Password": "202CB962AC59075B964B07152D234B"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": -200.0,
+    "ID": 17,
+    "Name": "Rost",
+    "Password": "202CB962AC59075B964B07152D234B"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": -200.0,
+    "ID": 18,
+    "Name": "Rost",
+    "Password": "202CB962AC59075B964B07152D234B"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": -200.0,
+    "ID": 19,
+    "Name": "Rost",
+    "Password": "202CB962AC59075B964B07152D234B"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": -200.0,
+    "ID": 20,
+    "Name": "Rost",
+    "Password": "202CB962AC59075B964B07152D234B"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": 0.0,
+    "ID": 21,
+    "Name": "Rost",
+    "Password": "202CB962AC59075B964B07152D234B"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": 0.0,
+    "ID": 22,
+    "Name": "Rost",
+    "Password": "202CB962AC59075B964B07152D234B"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": 0.0,
+    "ID": 23,
+    "Name": "Rost",
+    "Password": "202CB962AC59075B964B07152D234B"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": -600.0,
+    "ID": 24,
+    "Name": "Rost",
+    "Password": "202CB962AC59075B964B07152D234B"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": -600.0,
+    "ID": 25,
+    "Name": "Rost",
+    "Password": "202CB962AC59075B964B07152D234B"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": -600.0,
+    "ID": 26,
+    "Name": "Rost",
+    "Password": "202CB962AC59075B964B07152D234B"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": -600.0,
+    "ID": 27,
+    "Name": "Rost",
+    "Password": "202CB962AC59075B964B07152D234B"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": -600.0,
+    "ID": 28,
+    "Name": "Rost",
+    "Password": "202CB962AC59075B964B07152D234B"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": -600.0,
+    "ID": 29,
+    "Name": "Rost",
+    "Password": "202CB962AC59075B964B07152D234B"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": -600.0,
+    "ID": 30,
+    "Name": "Rost",
+    "Password": "202CB962AC59075B964B07152D234B"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": -600.0,
+    "ID": 31,
+    "Name": "Rost",
+    "Password": "202CB962AC59075B964B07152D234B"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": -600.0,
+    "ID": 32,
+    "Name": "Rost",
+    "Password": "202CB962AC59075B964B07152D234B"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": -600.0,
+    "ID": 33,
+    "Name": "Rost",
+    "Password": "202CB962AC59075B964B07152D234B"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": -600.0,
+    "ID": 34,
+    "Name": "Rost",
+    "Password": "202CB962AC59075B964B07152D234B"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": -300.0,
+    "ID": 35,
+    "Name": "Rost",
+    "Password": "202CB962AC59075B964B07152D234B"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": -300.0,
+    "ID": 36,
+    "Name": "Rost",
+    "Password": "202CB962AC59075B964B07152D234B"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": -300.0,
+    "ID": 37,
+    "Name": "Rost",
+    "Password": "202CB962AC59075B964B07152D234B"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": -300.0,
+    "ID": 38,
+    "Name": "Rost",
+    "Password": "202CB962AC59075B964B07152D234B"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": -300.0,
+    "ID": 39,
+    "Name": "Rost",
+    "Password": "202CB962AC59075B964B07152D234B"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": -300.0,
+    "ID": 40,
+    "Name": "Rost",
+    "Password": "202CB962AC59075B964B07152D234B"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": -300.0,
+    "ID": 41,
+    "Name": "Rost",
+    "Password": "202CB962AC59075B964B07152D234B"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": -300.0,
+    "ID": 42,
+    "Name": "Rost",
+    "Password": "202CB962AC59075B964B07152D234B"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": 0.0,
+    "ID": 43,
+    "Name": "Rost",
+    "Password": "827CCB0EEA8A706C4C34A16891F84E"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": 0.0,
+    "ID": 44,
+    "Name": "Rost",
+    "Password": "827CCB0EEA8A706C4C34A16891F84E"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": 0.0,
+    "ID": 45,
+    "Name": "Rost",
+    "Password": "202CB962AC59075B964B07152D234B"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": 0.0,
+    "ID": 46,
+    "Name": "Rost",
+    "Password": "202CB962AC59075B964B07152D234B"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": 0.0,
+    "ID": 47,
+    "Name": "Kostya",
+    "Password": "202CB962AC59075B964B07152D234B"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": -100.0,
+    "ID": 48,
+    "Name": "ml",
+    "Password": "A665A45920422F9D417E4867EFDC4FB8A04A1F3FFF1FA07E998E86F7F7A27AE3"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": 0.0,
+    "ID": 49,
+    "Name": "ml",
+    "Password": "A665A45920422F9D417E4867EFDC4FB8A04A1F3FFF1FA07E998E86F7F7A27AE3"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": -100.0,
+    "ID": 50,
+    "Name": "ml",
+    "Password": "A665A45920422F9D417E4867EFDC4FB8A04A1F3FFF1FA07E998E86F7F7A27AE3"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": -100.0,
+    "ID": 51,
+    "Name": "ml",
+    "Password": "A665A45920422F9D417E4867EFDC4FB8A04A1F3FFF1FA07E998E86F7F7A27AE3"
+  },
+  {
+    "$type": "Kursova.Models.User, InternetShop1",
+    "Balance": 0.0,
+    "ID": 52,
+    "Name": "jl",
+    "Password": "A665A45920422F9D417E4867EFDC4FB8A04A1F3FFF1FA07E998E86F7F7A27AE3"
+  }
+]

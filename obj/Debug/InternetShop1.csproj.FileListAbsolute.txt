@@ -1,0 +1,10 @@
+D:\C#\InternetShop1\obj\Debug\InternetShop1.csproj.AssemblyReference.cache
+D:\C#\InternetShop1\obj\Debug\InternetShop1.csproj.CoreCompileInputs.cache
+D:\C#\InternetShop1\bin\Debug\InternetShop1.exe.config
+D:\C#\InternetShop1\bin\Debug\InternetShop1.exe
+D:\C#\InternetShop1\bin\Debug\InternetShop1.pdb
+D:\C#\InternetShop1\bin\Debug\Newtonsoft.Json.dll
+D:\C#\InternetShop1\bin\Debug\Newtonsoft.Json.xml
+D:\C#\InternetShop1\obj\Debug\InternetShop1.csproj.CopyComplete
+D:\C#\InternetShop1\obj\Debug\InternetShop1.exe
+D:\C#\InternetShop1\obj\Debug\InternetShop1.pdb

@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "М'яка іграшка",
+    "Quantity": 23,
+    "IsAvailable": true,
+    "Price": 20
+  },
+  {
+    "Name": "Іграшковий автомобіль",
+    "Quantity": 47,
+    "IsAvailable": true,
+    "Price": 10
+  },
+  {
+    "Name": "Конструктор",
+    "Quantity": 10,
+    "IsAvailable": true,
+    "Price": 100
+  },
+  {
+    "Name": "Іграшковий робот на радіоуправлінні",
+    "Quantity": 15,
+    "IsAvailable": true,
+    "Price": 75
+  },
+  {
+    "Name": "Настільна гра",
+    "Quantity": 20,
+    "IsAvailable": true,
+    "Price": 60
+  }
+]
